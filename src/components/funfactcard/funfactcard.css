@@ -1,0 +1,20 @@
+.funfactcard {
+    height: 200px;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    color: rgb(81, 146, 121);
+    text-align: center;
+}
+
+.description {
+    font-size: 18px;
+}

@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    box-sizing: border-box; 
+    padding: 25px;
+    font-size: 18px;
+    background-color: rgb(81, 146, 121);
+    color: white;
+}
+
+#name {
+    font-size: 24px;
+    margin-right: auto;
+}
+
+.categories {
+    margin: 20px;
+}
