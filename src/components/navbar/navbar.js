@@ -6,8 +6,8 @@ export const NavBar = () => {
     
     return (
         <div className='navbar'>
-            <div id='name' onClick={() => navigate('/')}> Anvitha Goli </div>
-            <div className='categories' onClick={() => navigate('/about')}> About </div>
+            <div id='name' className='hoverable' onClick={() => navigate('/')}> Anvitha Goli </div>
+            <div className='categories hoverable' onClick={() => navigate('/about')}> About </div>
             <div className='categories'> Resume </div>
             <div className='categories'> Projects </div>
         </div>

@@ -1,5 +1,6 @@
 import './about.css';
-import { NavBar } from './components/navbar/navbar';
+import { NavBar } from '../navbar/navbar';
+import { FunFactCard } from '../funfactcard/funfactcard';
 
 export const About = () => {
     return (
