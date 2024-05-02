@@ -5,7 +5,7 @@ import { About } from './components/about/about';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portfolio-react-app">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<About />} />
