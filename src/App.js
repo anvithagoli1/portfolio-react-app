@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-
-import { FunFactCard } from './components/funfactcard/funfactcard';
+import { HomePage } from './components/homepage/homepage';
+import { About } from './components/about/about';
 
 function App() {
   return (
