@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.b5162caf.css",
-    "main.js": "/portfolio-react-app/static/js/main.beaaa54e.js",
+    "main.css": "/portfolio-react-app/static/css/main.3d4aad6a.css",
+    "main.js": "/portfolio-react-app/static/js/main.f25a2632.js",
     "static/js/453.ed3810f9.chunk.js": "/portfolio-react-app/static/js/453.ed3810f9.chunk.js",
     "static/media/anvitha.JPG": "/portfolio-react-app/static/media/anvitha.7f2900d898c986a4c5c1.JPG",
-    "static/media/logo.svg": "/portfolio-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-react-app/index.html",
-    "main.b5162caf.css.map": "/portfolio-react-app/static/css/main.b5162caf.css.map",
-    "main.beaaa54e.js.map": "/portfolio-react-app/static/js/main.beaaa54e.js.map",
+    "main.3d4aad6a.css.map": "/portfolio-react-app/static/css/main.3d4aad6a.css.map",
+    "main.f25a2632.js.map": "/portfolio-react-app/static/js/main.f25a2632.js.map",
     "453.ed3810f9.chunk.js.map": "/portfolio-react-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5162caf.css",
-    "static/js/main.beaaa54e.js"
+    "static/css/main.3d4aad6a.css",
+    "static/js/main.f25a2632.js"
   ]
 }
