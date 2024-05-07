@@ -1,0 +1,17 @@
+.theme-title {
+    margin: 50px 100px;
+    margin-bottom: 20px;
+}
+
+.theme-box {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0 100px;
+}
+
+.color-picker {
+    height: 200px;
+    flex-grow: 1;
+    cursor: pointer;
+}

@@ -2,11 +2,11 @@ import './homepage.css';
 import { NavBar } from '../navbar/navbar';
 import { MainDisplay } from '../maindisplay/maindisplay';
 
-export const HomePage = () => {
+export const HomePage = ({color}) => {
     return (
         <>
-            <NavBar />
-            <MainDisplay />
+            <NavBar color={color}/>
+            <MainDisplay color={color}/>
         </>
     );
 };
